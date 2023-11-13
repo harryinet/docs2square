@@ -1,4 +1,15 @@
 # LOrem ist hier
+
+## Links
+* https://github.com/blueswen/mkdocs-glightbox
+* https://squidfunk.github.io/mkdocs-material/reference/images/#light-and-dark-mode-custom-light-scheme
+* https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=emoji
+* https://squidfunk.github.io/mkdocs-material/getting-started/
+* https://www.youtube.com/watch?v=Q-YA_dA8C20
+* https://www.youtube.com/watch?v=OOxL-r1L334
+* ...
+
+
 ## Ipsium 2
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor cxs invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
 
