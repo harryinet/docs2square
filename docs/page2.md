@@ -4,11 +4,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 <figure markdown>
-  ![Image title](<../picsnfiles/page2/Screenshot_2023.png>){ width="300" }
+  ![Image title](<./assets/page2/Screenshot_2023.png>){ width="300" }
   <figcaption>Image caption</figcaption>
 </figure>
 
-![Test Test](<../picsnfiles/page2/Screenshot_2023.png>)
+![Test Test](<./assets/page2/Screenshot_2023.png>)
 
 ## 3 ipsums
 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
