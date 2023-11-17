@@ -28,6 +28,7 @@ theme:
       accent: lime
 
 plugins:
+  - social
   - glightbox:
       touchNavigation: true
       loop: false
