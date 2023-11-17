@@ -29,19 +29,7 @@ theme:
 
 plugins:
   - social
-  - glightbox:
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      slide_effect: slide
-      width: 80%
-      height: auto
-      zoomable: true
-      draggable: true
-      skip_classes:
-        - custom-skip-class-name
-      auto_caption: false
-      caption_position: bottom
+
 
 markdown_extensions:
   - pymdownx.highlight:
