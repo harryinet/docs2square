@@ -1,29 +1,61 @@
-# LOrem ist hier
-
-## Links
-* https://github.com/blueswen/mkdocs-glightbox
-* https://squidfunk.github.io/mkdocs-material/reference/images/#light-and-dark-mode-custom-light-scheme
-* https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=emoji
-* https://squidfunk.github.io/mkdocs-material/getting-started/
-* https://www.youtube.com/watch?v=Q-YA_dA8C20
-* https://www.youtube.com/watch?v=OOxL-r1L334
-* ...
-
-
-## Ipsium 2
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor cxs invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
-
-
-<figure markdown>
-  ![Image title](<./assets/page2/Screenshot_2023.png>){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-![Test Test](<./assets/page2/Screenshot_2023.png>)
-
-## 3 ipsums
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer
+# Steps
+Folgende Aufteilung in Schritten wäre möglich:
+### Wanne durch Fachfirma tauschen lassen
+Es gibt einschlägige Angebote im Internet, in denen Firmen sich darauf spezialisiert haben die Stahlwannen zu tauschen, wenn diese eingelassen sind.
+#### Beispiel
+* [Wanne in Wanne Austausch Stahl-Email ohne Fliesenschaden (intact-bad-service.de)](https://intact-bad-service.de/)
+### Fuge ausfräsen
+Die alten Fugen müssen ausgefräst werden. 
+Dies mit einem Multi Tool, passenden Scheiben und Staubsauger.
+Maske oder Anzug ist notwendig.
+#### Beispiel
+![Schraubst du noch oder steckst du schon? Klassische Verschraubung vs murrplastik Kabeldurchführungen (youtube.com)](https://www.youtube.com/watch?v=it72OG2BnWY)
+![gerissene ausgespülte Fugen erneuern (youtube.com)](https://www.youtube.com/watch?v=nWo5Rr0f1ZQ)
+#### Werkzeug
+Einhell Akku Multitool
+[Einhell VARRITO TE-MG 18 Li Solo ab 62,98 € | Preisvergleich bei idealo.de](https://www.idealo.de/preisvergleich/OffersOfProduct/6204650_-varrito-te-mg-18-li-solo-einhell.html)
+### Fugen neu einbringen
+Nach dem Ausfräsen werden die Fugen neu verfugt
+#### Beispiel
+![Badezimmer-Renovierung: Verfugen (youtube.com)](https://www.youtube.com/watch?v=QdlBuZIqnUw)
+### Epoxy Anstrich auf die alten Fliesen
+#### Link
+[Fliesenlack für Wand und Boden von EPODEX kaufen](https://www.epodex.com/de/lacke/fliesenlack/)
+#### Video
+![Fliesenlack ](https://youtu.be/5lVu4I_WQjk?si=wsft3mCnLrjfJLNg)
+### Kunststoff Platten aufkleben
+Man kann die Fliesen komplett neu abdecken mit Kunststoff Platten
+#### Videos
+![Verlegevideo Fliesana - Die perfekte Alternative zu Fliesenlack, Fliesenfarbe oder Fliesenaufkleber (youtube.com)](https://www.youtube.com/watch?v=4w6VCrGMMg4&t=16s)
+![PLaneo](https://www.youtube.com/watch?v=Nt8iA5EGdLE)
+![Fliesenfolie Anbringen die ANLEITUNG vom Profi Fliesen komplett überkleben (youtube.com)](https://www.youtube.com/watch?v=AAobTtBlzOQ)
+### Trennwand kürzen
+In dem Zuge könnte man die Trennwand von oben kürzen, dann die obere Fläche und die Lücke an der Fensterwand mit kleinen Dekorfliesen auffüllen.
+#### Höhe der gekürzten Wand festlegen
+Da gibt es mögliche Varianten
+* Gleiche Höhe wie Wannenrand, leicht schräg zur Dusche hin, man könnte dann da auch sitzen beim Duschen
+* Halbe Fliese hoch, direkt an der Naht, so wäre die Kopfseite bei Wannenbenutzung etwas abgeteilt.
+* Eineinhalb Fliesen hoch, für deutlicher Abtrennung Wann zu Dusche
+#### Schritte
+* Schiebetür raus, 
+* Vorhang an langem Drahtseil von Wand zu Ecke über WC
+* So kann dann der Vorhang auch mal in Wanne geschoben werden und dort hängen zum trocknen.
+### Zusätzlich Austausch der Duschwanne gegen nahezu ebenerdige Wanne
+#### Schritte
+* Ausbau der alten Wanne
+* Kernbohrung zum Zimmer Waschmaschine
+* Abfluss dahin legen
+* Niedrige Wann einbringen
+* fehlende Fliesen einbringen, dies kann sich ruhig abheben von den vorhandenen
+### Waschtische erneuern
+Das Bad ist am sonst Knochen trocken, man kann relativ einfach die Waschtisch erneuern.
+Weiter kann man die Wand mit den Waschtischen komplett neu gestalten.
+Zum Beispiel mit einer neuen Rückwand wie für Küche
+#### Beispiel
+[Küchenrückwand (stickerprofis.de)](https://www.stickerprofis.de/kuechenrueckwand.html?gad_source=2)
+### Huck isolieren
+Der Huck hinter dem WC kann relativ einfach isoliert werden.
+Man könnte dann da Regale unterbringen.
+Evtl. die Tür entfernen und einen größeren Ausschnitt herstellen, damit es besser begehbar wird.
+### Tür zum Bad
+Eine Einbau einer neuen Tür ist nicht zwingend erforderlich
